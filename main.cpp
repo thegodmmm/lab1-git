@@ -17,7 +17,7 @@ double	jouleHeat(double	I, double	R, double t) {
 int	main() {
 	SetConsoleCP(65001);       
 	SetConsoleOutputCP(65001);
-	int	choice;
+	int	choice;		
 	double	a, b, c;
 	do {
 		cout << "\n===	Вариант	38:	расчёты	для	тока	===\n";
