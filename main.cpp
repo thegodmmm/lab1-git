@@ -1,5 +1,6 @@
-//	Лабараторная работа	№	1.	Вариант	38.
+//  1skdfjosddshgdshuf
 //	Выполнил:	Максимов	М.	М.,	группа	ПИ-51.
+//	Лабараторная работа	№	1.	Вариант	38.
 #include	<iostream>
 #include	<Windows.h>
 using	namespace	std;
